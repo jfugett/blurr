@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "0.10"
+install:
+  - npm install
+notifications:
+  email:
+    - jfugett27@gmail.com
+  on_success: change
+  on_failure: always
