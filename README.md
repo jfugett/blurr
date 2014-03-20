@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/jfugett/blurr.png?label=ready&title=Ready)](https://waffle.io/jfugett/blurr)
 blurr
 =====
 
