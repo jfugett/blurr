@@ -1,0 +1,6 @@
+tools:
+  js_hint:
+    command: ~
+    use_native_config: true
+    extensions: .js
+    enabled: true
