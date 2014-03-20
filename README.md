@@ -1,4 +1,7 @@
+[![Latest Tag](https://img.shields.io/github/tag/jfugett/blurr.svg)](https://github.com/jfugett/blurr)
+
 [![GitHub version](https://badge.fury.io/gh/jfugett%2Fblurr.png)](http://badge.fury.io/gh/jfugett%2Fblurr)
+[![NPM Downloads](https://img.shields.io/npm/blurr/localeval.svg)](https://www.npmjs.org/package/blurr)
 
 [![Stories in Ready](https://badge.waffle.io/jfugett/blurr.png?label=ready&title=Ready)](https://waffle.io/jfugett/blurr)
 
