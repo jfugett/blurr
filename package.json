@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jfugett/blurr/issues"
   },
-  "homepage": "https://github.com/jfugett/blurr"
+  "homepage": "https://github.com/jfugett/blurr",
+  "devDependencies": {
+    "gulp": "^3.5.6"
+  }
 }
